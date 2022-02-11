@@ -20,7 +20,6 @@ const bc = browserConsole;
 */
 
 class xeon {
-
     /**
      * @var {HTMLElement} root.
      * @var {HTMLElement | function | Array} dom.
